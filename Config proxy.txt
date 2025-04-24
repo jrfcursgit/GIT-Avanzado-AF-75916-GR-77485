@@ -3,3 +3,4 @@ git config --global http.proxy http://usr:pwd@proxy.dominion.com:8080
 git config --global http.proxy http://usr:P%40ssw0rd@proxy.dominion.com:8080  
 
 cambiado en el central
+cambiado en el local
